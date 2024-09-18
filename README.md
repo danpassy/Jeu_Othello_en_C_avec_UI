@@ -43,3 +43,4 @@ You can find the set of rules (in French)
 
 ### When playing against the AI it will display the grade it assesed each possible move (orange)
 
+# Jeu_Othello_en_C_avec_UI
